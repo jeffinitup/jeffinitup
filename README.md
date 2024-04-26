@@ -1,7 +1,7 @@
 # Hi there. I'm Jefftastic.
 
 - 💿 19
-- 🐧 Fedora 39 user (Goodbye again Debian)
+- 🐧 Fedora 40 user (Goodbye again Debian)
 - 🖥️ Massive geek for all tech, new and old
 - ⛰️ I also enjoy going on hikes, camping trips, and urban exploration
 - 🎮 Amateur programmer and game designer of 8 years!
